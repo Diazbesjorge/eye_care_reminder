@@ -1,0 +1,6 @@
+{
+  "screen_interval_seconds": 1200,
+  "away_interval_seconds": 20,
+  "sound_frequency_hz": 1000,
+  "sound_duration_ms": 525
+}
