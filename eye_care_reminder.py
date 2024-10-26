@@ -4,11 +4,8 @@ import ctypes
 import winsound
 import threading
 import json
-import os
-import sys
 from PIL import Image, ImageDraw
 from pystray import Icon, Menu, MenuItem
-import pystray
 
 screen_interval_seconds = 1200  # seconds
 away_interval_seconds = 20  # seconds
