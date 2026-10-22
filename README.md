@@ -1,5 +1,5 @@
 # Eye Care Reminder
-Simple Windows app to follow the 20-20-20 rule for eyes
+Simple Windows app to follow the 20-20-20 rule for eyesight health
 
 ## How it works
 It shows a notification on screen, that once acknowledged will instruct you to look away from the screen for a certain period of time. After that time it will ring a bell to let you know that you can look back.
